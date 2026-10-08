@@ -1,16 +1,17 @@
-Um jogo de RPG textual e interativo desenvolvido em Python, para treinar código. ^^
+A text-based and interactive RPG developed in Python as a coding practice project.
 
-~Objetivo do Jogo
-O objetivo principal é guiar o teu Herói desde as profundezas das Ruínas de Eldoria, passar pela grande Cidade de Aethelgard e adentrar na perigosa Floresta Obscura para salvar a região da ameaça de Lorde Vaelthor e das suas criaturas.
+**Project Status: Unfinished / In Development**
 
-Ao longo da aventura, terás de:
+~ **Game Objective**
 
-Tomar decisões estratégicas de caminho e abordagem.
+The main objective is to guide your Hero from the depths of the Ruins of Eldoria, through the great city of Aethelgard, and into the dangerous Dark Forest to save the region from the threat of Lord Vaelthor and his creatures.
 
-Enfrentar inimigos em combates por turnos (como o Orc Guardião ou o Lobo Sagrado).
+Throughout the adventure, you will have to:
 
-Gerir os teus pontos de vida (HP) e poções de cura.
+* Make strategic decisions about paths and approaches.
+* Face enemies in turn-based combat, such as the Orc Guardian and the Sacred Wolf.
+* Manage your HP and healing potions.
+* Interact with characters such as the blacksmith Grom, the Tavern Mercenary, the Elven Priestess Aerith, and others.
+* Decide when to fight and when to show respect to ancient beasts.
 
-Interagir com personagens (o Ferreiro Grom, o Mercenário da Taverna, a Sacerdotisa Elfa Aerith, entre outros).
-
-Decidir quando lutar ou quando demonstrar respeito perante feras ancestrais.
+This project is **not finished yet** and is mainly being developed as a way to practice and improve my Python programming skills. More content, mechanics, and improvements are planned.
